@@ -1,0 +1,15 @@
+Welcome! What is your name?
+Chandler Stevens
+Well, nice to meet you Chandler!
+What is your favorite kind of pet?
+  dog  cat  bird  lizard  fish
+dog
+The average pet dog sleeps an average of 12-14 hours a day!
+
+Hey, Chandler! What is your favorite kind of vehicle?
+  car  boat  submarine  train  airplane  spaceship
+spaceship
+The fastest spaceship was the Parker Solar Probe at 213,242 mph!
+Alright, goodbye Chandler! Until next time!
+
+Process finished with exit code 0
